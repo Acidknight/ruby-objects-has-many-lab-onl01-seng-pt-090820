@@ -1,7 +1,11 @@
 class Author 
+<<<<<<< HEAD
   
   attr_accessor :name
  
+=======
+  attr_accessor :name
+>>>>>>> ca7d6e8e4cce41d043c1fb82a601d8d582fbed7a
   @@post_count = 1
 
   def initialize(name)
